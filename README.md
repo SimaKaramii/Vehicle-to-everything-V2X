@@ -5,12 +5,12 @@ This document provides an overview of vehicle-to-everything (V2X) communication 
 
 ## Contents
 
-- [Introduction to V2X](#introduction-to-v2x)
-- [DSRC](#dsrc) 
-- [C-V2X](#c-v2x)
-- [LTE V2X Evolution](#lte-v2x-evolution)  
-- [Interfaces and Channels](#interfaces-and-channels)
-- [Deployment and Applications](#deployment-and-applications)
+- Introduction to V2X(#introduction-to-v2x)
+- DSRC(#dsrc) 
+  C-V2X(#c-v2x)
+- LTE V2X Evolution(#lte-v2x-evolution)  
+- Interfaces and Channels(#interfaces-and-channels)
+- Deployment and Applications(#deployment-and-applications)
 
 ## Introduction to V2X
 
